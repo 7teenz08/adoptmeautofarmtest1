@@ -1,5 +1,5 @@
 📎 ADOPT ME SCRIPT;
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7teenz08/adoptmeautofarmtest1/refs/heads/main/adoptme.autofarm.by.lemon.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7teenz08/adoptmeautofarmtest1/refs/heads/main/admautofarm.gui.lua"))()
 
 LIKE AND SUBSCRIBE 🫰
